@@ -1,3 +1,66 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore target and build directories
+/target/
+/bin/
+/build/
+
+# Maven specific
+.mvn/
+!**/mvnw
+!**/mvnw.cmd
+pom.xml
+pom.xml.asc
+
+# Gradle specific
+.gradle/
+!gradle-wrapper.jar
+build/
+!gradlew
+!gradlew.bat
+!settings.gradle
+!gradle.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+*.launch
+
+# macOS and Linux system files
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore database files
+*.db
+*.sql
+*.sqlite
+
+# Ignore generated files
+/lombok.config
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -13,11 +76,6 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
 
 ### NetBeans ###
 /nbproject/private/
