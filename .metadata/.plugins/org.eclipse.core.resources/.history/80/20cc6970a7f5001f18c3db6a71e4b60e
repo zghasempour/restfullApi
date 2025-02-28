@@ -1,9 +1,0 @@
-spring.application.name=create-RESTful-API
-logging.level.org.springframework=debug
-spring.profiles.active=dev
-
-currency-service.url=http://default.zari.com
-currency-service.username=defaultusername
-currency-servicekey=defualtkey
-
-managment.endpoints.web.exposure.include=* 

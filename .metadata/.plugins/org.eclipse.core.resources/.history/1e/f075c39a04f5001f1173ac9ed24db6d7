@@ -1,7 +1,0 @@
-spring.application.name=create-RESTful-API
-logging.level.org.springframework=debug
-spring.profiles.active=dev
-
-currency-service.url=
-currency-service.username=
-currency-servicekey=
