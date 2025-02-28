@@ -1,0 +1,5 @@
+package com.first.spring.boot.project.create_RESTful_API;
+
+public class Course {
+
+}
